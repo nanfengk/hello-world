@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T20:35:34.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="xfDVwCWC9AqVK5-m3VjV" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-06T20:37:27.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="oIzBMRwdv0yvJnHX6pFr" version="20.0.4" type="github" pages="3">
   <diagram id="hY5Z4vYu1crIj4cy2kPB" name="第 1 页">
     <mxGraphModel dx="2130" dy="1739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -450,7 +450,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5a6y1f6Vd2r99JSpRheK" name="第 2 页">
-    <mxGraphModel dx="2324" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="842" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1140,6 +1140,9 @@
         </mxCell>
         <mxCell id="htvxuuEL0ZNnEyeRjoAu-158" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Disease-Disease Similarity&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="797.6300000000001" y="386.25" width="237.37" height="36.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Mqejg7SloqlgIfNFqHZt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="87" y="498" width="1013" height="297" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
