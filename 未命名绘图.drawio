@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T18:02:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="90QHzXXrlNK2PFqi_2-P" version="20.8.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-01-27T06:25:54.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="P3keFu0z96LE1Iw3izh9" version="20.8.11" type="github" pages="5">
   <diagram id="nzichOOmSURMl8vuzd4C" name="Page-1">
     <mxGraphModel dx="650" dy="1349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1024,7 +1024,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qw3JtPUCDlyNYamGuqfe" name="第 3 页">
-    <mxGraphModel dx="835" dy="1046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="1237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1652,7 +1652,7 @@
             <mxPoint x="1392" y="420.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8mEjH_7VAyEaO7oLWfmF-145" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Layer Aggregation:&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;quot;blinkmacsystemfont&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;source han sans sc&amp;quot; , &amp;quot;noto sans cjk sc&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , sans-serif&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Concat+Sum&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=9;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="8mEjH_7VAyEaO7oLWfmF-145" value="&lt;b&gt;&lt;font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Layer Aggregation&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=9;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1291.5" y="410" width="155.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8mEjH_7VAyEaO7oLWfmF-146" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;MLP&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=9;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" parent="1" vertex="1">
@@ -1688,8 +1688,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8mEjH_7VAyEaO7oLWfmF-151" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Aggregate drug and &lt;br&gt;disease outputs from each &lt;br&gt;message-passing layer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="935" y="461" width="213" height="41" as="geometry" />
+        <mxCell id="8mEjH_7VAyEaO7oLWfmF-151" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Aggregate drug and &lt;br&gt;disease outputs from each &lt;br&gt;convolutional layer&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="931" y="447" width="221" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8mEjH_7VAyEaO7oLWfmF-152" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Prediction&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=9;strokeColor=#655F94;strokeWidth=1;fillColor=#9292F5;" parent="1" vertex="1">
           <mxGeometry x="1315.25" y="533" width="104.5" height="40" as="geometry" />
